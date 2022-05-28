@@ -5,6 +5,7 @@
 ## 环境需求
 
 * node >= 12 [具体安装方法](https://www.jianshu.com/p/c4aed6e4693d)
+
 **上述安装为Win环境，Mac环境请自行查询**
 
 ## 使用方法
